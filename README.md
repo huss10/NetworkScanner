@@ -1,1 +1,2 @@
-# NetworkScanner
+# NetworkScanner (Python)
+As a basic network scanning tool, it examines networks to detect connected devices, accessible ports, and active services. Users gain a thorough understanding of their network's layout and spot potential security vulnerabilities like open ports or susceptible services. The tool boasts a user-friendly interface where users can input network ranges or individual IP addresses for scanning. Employing efficient methods such as ICMP, TCP, and UDP, it collects data about networked devices. Ultimately, the project strives to furnish users with a simple yet potent tool for network exploration and security evaluation.
